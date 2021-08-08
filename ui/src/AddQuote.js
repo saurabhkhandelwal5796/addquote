@@ -4,7 +4,7 @@ import * as Yup from 'yup';
 import { useHistory } from 'react-router';
 import axios from 'axios';
  
-const AddQuote = () => {
+const AddQuote = () => { 
     const history = useHistory();
    return (
        <>
