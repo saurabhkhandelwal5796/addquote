@@ -30,7 +30,9 @@ export default function PrimarySearchAppBar() {
 
 {/*NavBar Buttons imported:  */}
           <Typography className={classes.title} variant="h6" noWrap>
-          <Button style = {{color :'white'}} component={Link} to={'/'} color="white">Best Quotes</Button>
+          <Button style = {{color :'white'}} component={Link} to={'/'} color="white" style = {{fontSize:"25px",color:'white'}}> 
+          <img height = '50px' style = {{borderRadius:'50%'}} src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeH68BhzZBsT3sAY7LUaV8_r4JJamcMM0q_CMvY-6Z1BiMsfwC7OVk-Xt5-8Eqaa2v-5M&usqp=CAU"/>
+            Best Quotes</Button>
           </Typography>
           <div className={classes.grow} />
           <Typography className={classes.title} variant="h6" noWrap>

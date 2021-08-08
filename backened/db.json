@@ -1,41 +1,90 @@
 {
   "quotes": [
+   
+   
     {
-      "id": "1",
-      "quote": "Write it. Shoot it. Publish it. Crochet it, sauté it, whatever. MAKE.",
-      "author": "Joss Whedon",
-      "likes": 24
+      "id": "dc2c0b19-41a2-41a2-9781-79447cb5fcb7",
+      "quote": "Change the world by being yourself.",
+      "author": "Amy Poehler",
+      "likes": 39
     },
     {
-      "id": "2",
-      "quote": "Write it. Shoot it. Publish it. Crochet it, sauté it, whatever. MAKE.",
-      "author": "Joss Whedon",
-      "likes": 12
+      "id": "0d86be22-b220-4722-a2c2-61ae630d748a",
+      "quote": "Love For All, Hatred For None. ",
+      "author": "Khalifatul Masih III",
+      "likes": 51
     },
     {
-      "id": "1",
-      "quote": "Write it. Shoot it. Publish it. Crochet it, sauté it, whatever. MAKE.",
-      "author": "Joss Whedon",
-      "likes": 24
+      "id": "08dd92a6-59db-416f-b46c-6cacdc6d6550",
+      "quote": "Every moment is a fresh beginning. ",
+      "author": "T.S Eliot",
+      "likes": 36
     },
     {
-      "id": "2",
-      "quote": "Write it. Shoot it. Publish it. Crochet it, sauté it, whatever. MAKE.",
-      "author": "Joss Whedon",
-      "likes": 12
+      "id": "463b8e89-4aff-4870-9734-0ec0519ee2d2",
+      "quote": "Never regret anything that made you smile.",
+      "author": " Mark Twain",
+      "likes": 16
     },
     {
-      "id": "1",
-      "quote": "Write it. Shoot it. Publish it. Crochet it, sauté it, whatever. MAKE.",
-      "author": "Joss Whedon",
-      "likes": 24
+      "id": "98e08f82-9dc8-4f67-af82-2161777a1c94",
+      "quote": "Everything you can imagine is real. ",
+      "author": "Pablo Picasso",
+      "likes": 11
     },
     {
-      "id": "2",
-      "quote": "Write it. Shoot it. Publish it. Crochet it, sauté it, whatever. MAKE.",
-      "author": "Joss Whedon",
-      "likes": 12
+      "id": "ab82cf85-eba5-42b2-a7d9-11263932af50",
+      "quote": "Simplicity is the ultimate sophistication. ",
+      "author": "Leonardo da Vinci",
+      "likes": 29
+    },
+    {
+      "id": "ebd492c6-d908-4b75-ace6-d4e0b37679db",
+      "quote": "Whatever you do, do it well.",
+      "author": "Walt Disney",
+      "likes": 58
+    },
+    {
+      "id": "e08251c1-9b23-4a55-be2e-b65cba0ecccd",
+      "quote": "What we think, we become. ",
+      "author": "Buddha",
+      "likes": 77
+    },
+    {
+      "id": "44102171-721e-471a-81ba-6bad72c064be",
+      "quote": "All limitations are self-imposed. ",
+      "author": "Oliver Wendell Holmes",
+      "likes": 50
+    },
+    {
+      "id": "a4760884-abd4-44eb-a87d-80ca5afbc0e8",
+      "quote": "Tough times never last but tough people do. ",
+      "author": "Robert H. Schiuller",
+      "likes": 85
+    },
+    {
+      "id": "4939fcfb-6c3b-413e-9b9f-b5d5bb89ea16",
+      "quote": "Problems are not stop signs, they are guidelines. ",
+      "author": " Robert H. Schiuller",
+      "likes": 68
+    },
+    {
+      "id": "4a01419d-702d-492a-a631-3d1a1c59ca17",
+      "quote": "One day the people that don’t even believe in you will tell everyone how they met you.",
+      "author": "Johnny Depp",
+      "likes": 39
+    },
+    {
+      "id": "8e13523b-a07e-4103-bcde-e950488ddba9",
+      "quote": "If I’m gonna tell a real story, I’m gonna start with my name.",
+      "author": " Kendrick Lamar",
+      "likes": 76
+    },
+    {
+      "id": "446bf1ac-e7f4-4bbf-9330-2bd4040c591e",
+      "quote": "If you tell the truth you don’t have to remember anything. ",
+      "author": "Mark Twain",
+      "likes": 58
     }
-    
   ]
 }

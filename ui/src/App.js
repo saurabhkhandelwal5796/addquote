@@ -5,6 +5,7 @@ import Quote from './Quote'
 import WellLiked from './WellLiked'
 import PrimarySearchAppBar from './NavBar.material'
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
+import MovingBackground from './movingBackground'
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
         <Route path = "/addQuote"   component = {AddQuote} />   
         <Route path="*"             component={Quote} />  
         </Switch>  
+    
     </>
   )
 }

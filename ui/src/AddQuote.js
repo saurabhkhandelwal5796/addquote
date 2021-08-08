@@ -3,6 +3,7 @@ import { Formik } from 'formik';
 import * as Yup from 'yup';
 import { useHistory } from 'react-router';
 import axios from 'axios';
+import './index.css'
  
 const AddQuote = () => { 
     const history = useHistory();

@@ -2,9 +2,12 @@ import React, { useEffect, useState } from 'react';
 import Paper from '@material-ui/core/Paper';
 import { makeStyles } from '@material-ui/core/styles';
 import Grid from '@material-ui/core/Grid';
+import FavoriteIcon from '@material-ui/icons/Favorite';
 
 import Typography from '@material-ui/core/Typography';
 import axios from 'axios';
+import './index.css'
+
 
 
 const useStyles = makeStyles((theme) => ({
@@ -21,8 +24,7 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-const message = `Truncation should be conditionally applicable on this long line of text
- as this is a much longer line than what the container can support. `;
+const message = ` `;
 
 export default function AutoGridNoWrap() {
 
@@ -61,9 +63,9 @@ export default function AutoGridNoWrap() {
         <Grid container wrap="nowrap" spacing={2}>
           
           <Grid item xs zeroMinWidth>
-            <Typography noWrap>Quote: {ele.quote}</Typography>
-            <Typography noWrap>By: {ele.author}</Typography>
-            <Typography noWrap>{ele.likes} Likes </Typography>
+            <Typography  noWrap style = {{fontSize:'25px'}}>{ele.quote}</Typography>
+            <Typography noWrap style = {{fontSize:'15px'}}>By: {ele.author}</Typography>
+            <Typography noWrap style = {{fontSize:'10px',color:'red'}}> <FavoriteIcon/> {ele.likes} Likes </Typography>
           </Grid>
         </Grid>
       </Paper> 
