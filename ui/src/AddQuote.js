@@ -37,7 +37,7 @@ const AddQuote = () => {
              <form onSubmit={formik.handleSubmit}>
             <div className='form-row'>
             <div className="form-group"> 
-              <label for="quote">Quote</label>
+              <label for="quote">Add Quote</label>
               <input id="quote" type="text"  {...formik.getFieldProps('quote')} className="form-control" />
               {formik.touched.quote && formik.errors.quote ? (<div>{formik.errors.quote}</div>) : null}
             </div><br/>
